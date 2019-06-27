@@ -11,12 +11,12 @@ Python libraries used: pandas, numpy, sklearn, nltk, matplotlib
 Dataset/Input files Used: 'Train.csv' , 'Test.csv'
 Output file: 'Predicted_Product_Category.csv'
 
-- The source code is present in src/HackerEarthChallenge_DataScience.ipynb file which is a IPython Notebook file.
+- The source code is present in src/MulticlassClassification_ProductCategory.ipynb file which is a IPython Notebook file.
 All the steps are documented in the markdown cells present in the Notebook file. The file can be opened using a Jupyter Notebook.
 
 - The dataset is present in dataset/ folder
 
-- Also a HTML version of the notebook file is provided named HackerEarthChallenge_DataScience.html which can be opened using any web browser.
+- Also a HTML version of the notebook file is provided named MulticlassClassification_ProductCategory.html which can be opened using any web browser.
 
 ## Additional Information:-
 
