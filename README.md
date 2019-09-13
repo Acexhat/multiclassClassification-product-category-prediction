@@ -18,8 +18,9 @@ All the steps are documented in the markdown cells present in the Notebook file.
 
 - Also a HTML version of the notebook file is provided named MulticlassClassification_ProductCategory.html which can be opened using any web browser.
 
-## Additional Information:-
+## Quick Start
 
+### Additional Information
 Anaconda is actually a distribution of software that comes with conda, Python, and over 150 scientific packages and their dependencies. It comes with jupyter notebook too. Hence installing anaconda will automatically install jupyter notebook.
 
 ### How to install Anaconda?
